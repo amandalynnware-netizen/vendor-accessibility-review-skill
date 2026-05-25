@@ -1,4 +1,4 @@
-# Claude Skills — Accessibility Workflow
+# Claude Skill — Accessibility Workflow
 
 A collection of Claude skill files built for accessibility practitioners 
 working in the TBR system — and anyone using Claude for VPAT reviews, 
